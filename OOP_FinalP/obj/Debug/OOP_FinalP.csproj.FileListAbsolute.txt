@@ -1,0 +1,6 @@
+C:\Users\osman\RiderProjects\OOP_FinalP\OOP_FinalP\bin\Debug\OOP_FinalP.exe
+C:\Users\osman\RiderProjects\OOP_FinalP\OOP_FinalP\bin\Debug\OOP_FinalP.pdb
+C:\Users\osman\RiderProjects\OOP_FinalP\OOP_FinalP\obj\Debug\OOP_FinalP.csprojAssemblyReference.cache
+C:\Users\osman\RiderProjects\OOP_FinalP\OOP_FinalP\obj\Debug\OOP_FinalP.csproj.CoreCompileInputs.cache
+C:\Users\osman\RiderProjects\OOP_FinalP\OOP_FinalP\obj\Debug\OOP_FinalP.exe
+C:\Users\osman\RiderProjects\OOP_FinalP\OOP_FinalP\obj\Debug\OOP_FinalP.pdb
